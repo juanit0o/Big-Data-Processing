@@ -8,3 +8,7 @@ This was done using:
 - Spark SQL
 - Hive
 
+<p align="center">
+       <img src="https://i.imgur.com/PiQBLML.jpeg" width="400" height="300" alt="Layout of the website">
+</p>
+
